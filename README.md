@@ -1,6 +1,6 @@
-# Solana Redux Mantine Next.js template
+# Wagami Redux Mantine Next.js template
 
-This is a template for [Next.js](https://nextjs.org/) & [Solana](https://solana.com) web3 app router
+This is a template for [Next.js](https://nextjs.org/) & Wagami web3 app router
 
 ## Features
 
@@ -14,7 +14,6 @@ This template comes with the following features:
 - ESLint setup with [eslint-config-mantine](https://github.com/mantinedev/eslint-config-mantine)
 - [ReOwn/AppKit](https://reown.com/)
 - [ReduxToolkit](https://redux-toolkit.js.org/)
-- [Solana](https://solana.com)
 
 ## npm scripts
 
